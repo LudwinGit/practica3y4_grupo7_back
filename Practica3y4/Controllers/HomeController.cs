@@ -12,7 +12,7 @@ namespace Practica3y4.Controllers
         {
             WSBanguat.TipoCambioSoapClient ws = new WSBanguat.TipoCambioSoapClient();
             //ViewBag.Message = ws.TipoCambioFechaInicial("10/10/2019");
-            ViewBag.Message = ws.TipoCambioFechaInicial("10/10/2019");
+            ViewBag.fechas = ws.TipoCambioFechaInicial("10/10/2019").Vars;
 
             return View();
         }

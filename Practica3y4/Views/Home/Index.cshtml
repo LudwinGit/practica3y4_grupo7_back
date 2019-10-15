@@ -28,8 +28,19 @@
 <div class="row">
     <div class="col-md-12">
         <h2>Getting started</h2>
-        <p>
-            @ViewBag.Message
-        </p>
+        <table>
+            <thead>
+            </thead>
+            <tbody>
+                @foreach (var dia in @ViewBag.fechas)
+                {
+                <tr>
+                    <td>@dia.fecha</td>
+                    <td>@dia.venta</td>
+                    <td>@dia.compra</td>
+                </tr>
+                }
+            </tbody>
+        </table>
     </div>
 </div>
