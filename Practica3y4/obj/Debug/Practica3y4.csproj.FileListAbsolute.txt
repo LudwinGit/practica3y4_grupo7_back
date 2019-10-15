@@ -76,7 +76,7 @@ C:\Users\lburrion\Documents\Projects\Practica3y4\Practica3y4\bin\es\System.Web.R
 C:\Users\lburrion\Documents\Projects\Practica3y4\Practica3y4\bin\es\System.Web.WebPages.resources.dll
 C:\Users\lburrion\Documents\Projects\Practica3y4\Practica3y4\bin\es\System.Web.WebPages.Deployment.resources.dll
 C:\Users\lburrion\Documents\Projects\Practica3y4\Practica3y4\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\lburrion\Documents\Projects\Practica3y4\Practica3y4\obj\Debug\Practica3y4.csprojAssemblyReference.cache
 C:\Users\lburrion\Documents\Projects\Practica3y4\Practica3y4\obj\Debug\Practica3y4.csproj.CopyComplete
 C:\Users\lburrion\Documents\Projects\Practica3y4\Practica3y4\obj\Debug\Practica3y4.dll
 C:\Users\lburrion\Documents\Projects\Practica3y4\Practica3y4\obj\Debug\Practica3y4.pdb
+C:\Users\lburrion\Documents\Projects\Practica3y4\Practica3y4\obj\Debug\Practica3y4.csprojAssemblyReference.cache
