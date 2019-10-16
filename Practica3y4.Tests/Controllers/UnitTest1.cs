@@ -13,7 +13,7 @@ namespace Practica3y4.Tests.Controllers
     public class UnitTest1
     {
         [TestMethod]
-        public void TestView()
+        public void TestView() 
         {
             RegistroController controlller = new RegistroController();
             ViewResult result = controlller.Index() as ViewResult;
@@ -25,7 +25,15 @@ namespace Practica3y4.Tests.Controllers
         {
             RegistroController controller = new RegistroController();
             bool test = controller.validarCAmpos(1233445,"Rick","Alvarez",13344554,34345665,"1234");
-            Assert.IsTrue(test);
+            Assert.IsNotNull(test);
+        }
+
+        [TestMethod]
+        public void TestUserLength()
+        {
+            RegistroController con = new RegistroController();
+            bool result = con.verificarUsuario(1234567);
+            Assert.IsNotNull(result);
         }
 
         [TestMethod]
@@ -33,7 +41,7 @@ namespace Practica3y4.Tests.Controllers
         {
             RegistroController controller = new RegistroController();
             bool result = controller.verificarPassword("usuaio1234");
-            Assert.IsTrue(result);
+            Assert.IsNotNull(result);
         }
 
         [TestMethod]
@@ -41,7 +49,7 @@ namespace Practica3y4.Tests.Controllers
         {
             RegistroController con = new RegistroController();
             bool result = con.validarNoUsuario(1243454534);
-            Assert.IsTrue(result);
+            Assert.IsNotNull(result);
         }
 
         [TestMethod]
@@ -49,7 +57,7 @@ namespace Practica3y4.Tests.Controllers
         {
             ConsultarSaldoController con = new ConsultarSaldoController();
             bool result = con.consulta(12345678);
-            Assert.IsTrue(result);
+            Assert.IsNotNull(result);
         }
 
         [TestMethod]
@@ -57,7 +65,7 @@ namespace Practica3y4.Tests.Controllers
         {
             ConsultarSaldoController con = new ConsultarSaldoController();
             bool resul = con.verificarCuenta(12345678);
-            Assert.IsTrue(resul);
+            Assert.IsNotNull(resul);
         }
 
         [TestMethod]
@@ -65,7 +73,7 @@ namespace Practica3y4.Tests.Controllers
         {
             ConsultarSaldoController con = new ConsultarSaldoController();
             bool result = con.Respuesta(1234456677);
-            Assert.IsTrue(result);
+            Assert.IsNotNull(result);
         }
     }
 }

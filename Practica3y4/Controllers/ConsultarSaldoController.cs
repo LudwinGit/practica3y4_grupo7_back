@@ -16,38 +16,41 @@ namespace Practica3y4.Controllers
 
         public bool consulta(int cuenta)
         {
-            if(cuenta == 12345678)
+            throw new NotImplementedException();
+            /*if (cuenta == 12345678)
             {
                 return true;
             }
             else
             {
                 return false;
-            }
+            }*/
         }
 
         public bool verificarCuenta(int cuenta)
         {
-            if(cuenta == 12345678)
+            throw new NotImplementedException();
+            /*if(cuenta == 12345678)
             {
                 return true;
             }
             else
             {
                 return false;
-            }
+            }*/
         }
 
         public bool Respuesta(int cuenta)
         {
-            if(cuenta == 1234456677)
+            throw new NotImplementedException();
+            /*if (cuenta == 1234456677)
             {
                 return true;
             }
             else
             {
                 return false;
-            }
+            }*/
         }
     }
 }
