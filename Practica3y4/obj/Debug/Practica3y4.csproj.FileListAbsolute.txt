@@ -76,10 +76,10 @@ C:\Users\lburrion\Documents\Projects\Practica3y4\Practica3y4\bin\es\System.Web.R
 C:\Users\lburrion\Documents\Projects\Practica3y4\Practica3y4\bin\es\System.Web.WebPages.resources.dll
 C:\Users\lburrion\Documents\Projects\Practica3y4\Practica3y4\bin\es\System.Web.WebPages.Deployment.resources.dll
 C:\Users\lburrion\Documents\Projects\Practica3y4\Practica3y4\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\lburrion\Documents\Projects\Practica3y4\Practica3y4\obj\Debug\Practica3y4.csprojAssemblyReference.cache
 C:\Users\lburrion\Documents\Projects\Practica3y4\Practica3y4\obj\Debug\Practica3y4.csproj.CopyComplete
 C:\Users\lburrion\Documents\Projects\Practica3y4\Practica3y4\obj\Debug\Practica3y4.dll
 C:\Users\lburrion\Documents\Projects\Practica3y4\Practica3y4\obj\Debug\Practica3y4.pdb
+<<<<<<< HEAD
 C:\Users\Andrea\Desktop\practica3Andrea\practica3y4_grupo7\Practica3y4\bin\Practica3y4.dll.config
 C:\Users\Andrea\Desktop\practica3Andrea\practica3y4_grupo7\Practica3y4\bin\Practica3y4.dll
 C:\Users\Andrea\Desktop\practica3Andrea\practica3y4_grupo7\Practica3y4\bin\Practica3y4.pdb
@@ -163,3 +163,6 @@ C:\Users\Andrea\Desktop\practica3Andrea\practica3y4_grupo7\Practica3y4\obj\Debug
 C:\Users\Andrea\Desktop\practica3Andrea\practica3y4_grupo7\Practica3y4\obj\Debug\Practica3y4.csproj.CopyComplete
 C:\Users\Andrea\Desktop\practica3Andrea\practica3y4_grupo7\Practica3y4\obj\Debug\Practica3y4.dll
 C:\Users\Andrea\Desktop\practica3Andrea\practica3y4_grupo7\Practica3y4\obj\Debug\Practica3y4.pdb
+=======
+C:\Users\lburrion\Documents\Projects\Practica3y4\Practica3y4\obj\Debug\Practica3y4.csprojAssemblyReference.cache
+>>>>>>> origin/develop
