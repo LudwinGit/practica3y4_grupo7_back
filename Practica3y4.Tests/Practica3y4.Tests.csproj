@@ -91,17 +91,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <Compile Include="Controllers\TransferenciaMonetariaTest.cs" />
     <Compile Include="Controllers\UnitTest1.cs" />
-=======
     <Compile Include="Connected Services\WSBanguat\Reference.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Reference.svcmap</DependentUpon>
     </Compile>
     <Compile Include="Controllers\WSTest.cs" />
->>>>>>> origin/develop
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
